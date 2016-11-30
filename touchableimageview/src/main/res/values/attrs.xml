@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="TouchableImageView">
+        <attr format="dimension" name="tiv_radius" />
+        <attr format="integer" name="tiv_starting_alpha" />
+        <attr format="integer" name="tiv_animation_time" />
+        <attr format="color" name="tiv_color" />
+        <attr format="boolean" name="tiv_enabled" />
+    </declare-styleable>
+</resources>
